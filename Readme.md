@@ -1,4 +1,4 @@
-# Harmony
+# Harmony (https://www.npmjs.com/package/harmony v0.0.1)
 
 Because parsing forms shouldn't be hard.
 
